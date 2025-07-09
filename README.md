@@ -12,7 +12,7 @@ You need to have Node.js and npm installed on your machine.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/digipass-market.git
+   git clone https://github.com/XeraL04/reactViteTemp.git
    ```
 2. Install NPM packages
    ```sh
